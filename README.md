@@ -33,6 +33,7 @@ The Smart Refrigerator System is built using the following tools and technologie
 1. Clone the repository: `git clone https://github.com/ChandanaJilla/Smart-Refrigerator-System.git`
 2. Install the necessary libraries and dependencies as specified in the project documentation.
 3. Connect the hardware components according to the provided circuit diagram.
+![Screenshot](circuit.jpeg)
 4. Upload the firmware to the microcontroller.
 5. Configure the Wi-Fi settings and email credentials in the project configuration files.
 6. Power on the system and ensure all components are functioning correctly.
